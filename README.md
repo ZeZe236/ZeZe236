@@ -20,7 +20,7 @@
 
 ---
 
-## 🍯 about me
+## About me <3
 <!--
 ```kotlin
 val azma = Developer(
@@ -34,7 +34,7 @@ val azma = Developer(
 -->
 ---
 
-## 🐾 tech i work with
+## Tech I Work With
 
 <div align="center">
 
@@ -57,7 +57,7 @@ val azma = Developer(
 
 ---
 
-## ⭐ what i'm up to
+## What I'm Up To
 
 | 🔭 | Working on **VoiceVault** — a voice-based authentication research project |
 |---|---|
@@ -68,7 +68,7 @@ val azma = Developer(
 
 ---
 
-## 🐻 my repositories
+## My Repos
 
 <div align="center">
 
@@ -85,10 +85,10 @@ val azma = Developer(
 ## 📊 github stats
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ZeZe236&show_icons=true&theme=warm&bg_color=2b1d0e&title_color=f5d6a8&text_color=d4a96a&icon_color=c9883a&border_color=c9883a&hide_border=false" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeZe236&layout=compact&theme=warm&bg_color=2b1d0e&title_color=f5d6a8&text_color=d4a96a&border_color=c9883a" height="165"/>
-
+-->
 </div>
 
 ---
