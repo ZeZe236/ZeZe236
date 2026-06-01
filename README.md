@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=935820&height=140&section=header&text=Hey%20there!%20I'm%20Azma%20🐻&font=Nunito&fontSize=36&fontColor=f5d6a8&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ED9842&height=140&section=header&text=Hey%20there!%20I'm%20Azma%20🐻&font=Nunito&fontSize=36&fontColor=f5d6a8&fontAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- PROFILE INTRO -->
 <br/>
