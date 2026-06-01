@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,22&height=140&section=header&text=hey%20there!%20i'm%20azma%20🐻&fontSize=36&fontColor=f5d6a8&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Hey%20there!%20I'm%20Azma%20🐻&font=Dancing+Script&fontSize=36&fontColor=f5d6a8&fontAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- PROFILE INTRO -->
 <br/>
@@ -21,7 +21,7 @@
 ---
 
 ## 🍯 about me
-
+<!--
 ```kotlin
 val azma = Developer(
     name     = "Azma K  ( ZeZe236 )",
@@ -31,7 +31,7 @@ val azma = Developer(
     vibe     = "bear hoodie on · honey in hand · keyboard clacking 🐻"
 )
 ```
-
+-->
 ---
 
 ## 🐾 tech i work with
