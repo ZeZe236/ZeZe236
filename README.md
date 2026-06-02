@@ -94,7 +94,7 @@ val azma = Developer(
 ---
 -->
 
-## 🌸 Find Me
+## Find Me
 
 <div align="center">
 
