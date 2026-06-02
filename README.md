@@ -21,7 +21,7 @@
 ---
 
 ## About me <3
-
+<!--
 ```kotlin
 val azma = Developer(
     name     = "Azma K  ( ZeZe236 )",
@@ -31,7 +31,7 @@ val azma = Developer(
     vibe     = "bear hoodie on · honey in hand · keyboard clacking 🐻"
 )
 ```
-
+-->
 ---
 
 ## Tech I Work With
