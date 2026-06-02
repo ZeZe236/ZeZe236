@@ -21,7 +21,7 @@
 ---
 
 ## About me <3
-<!--
+
 ```kotlin
 val azma = Developer(
     name     = "Azma K  ( ZeZe236 )",
@@ -31,7 +31,7 @@ val azma = Developer(
     vibe     = "bear hoodie on · honey in hand · keyboard clacking 🐻"
 )
 ```
--->
+
 ---
 
 ## Tech I Work With
@@ -81,24 +81,24 @@ val azma = Developer(
 </div>
 
 ---
-
+<!--
 ## 📊 github stats
 
 <div align="center">
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=ZeZe236&show_icons=true&theme=warm&bg_color=2b1d0e&title_color=f5d6a8&text_color=d4a96a&icon_color=c9883a&border_color=c9883a&hide_border=false" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeZe236&layout=compact&theme=warm&bg_color=2b1d0e&title_color=f5d6a8&text_color=d4a96a&border_color=c9883a" height="165"/>
--->
+
 </div>
 
 ---
+-->
 
 ## 🌸 find me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azma-k236)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeze.236)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeZe236)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeze236)
 
